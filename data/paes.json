@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "tipo": "Italiano Branco"
+  },
+  {
+    "id": 2,
+    "tipo": "3 Queijos"
+  },
+  {
+    "id": 3,
+    "tipo": "Parmesão e Orégano"
+  },
+  {
+    "id": 4,
+    "tipo": "Integral"
+  },
+  {
+    "id": 5,
+    "tipo": "Hamburguer"
+  },
+  {
+    "id": 6,
+    "tipo": "Hot-Dog"
+  }
+]
